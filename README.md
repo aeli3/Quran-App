@@ -14,11 +14,11 @@ A comprehensive React Native application for reading and listening to the Quran 
 
 | Start Screen | Home Screen |
 |--------------|-------------|
-| ![Start Screen](./start.png) | ![Home Screen](./home.png) |
+| ![Start Screen](./start.jpeg) | ![Home Screen](./home.jpeg) |
 
 | Chapter View | Language Selection |
 |--------------|---------------------|
-| ![Chapter View](./chapter.png) | ![Language Selection](./language.png) |
+| ![Chapter View](./chapter.jpeg) | ![Language Selection](./language.jpeg) |
 
 ## 🛠 Technologies Used
 
